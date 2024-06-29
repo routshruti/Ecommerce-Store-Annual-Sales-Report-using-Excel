@@ -37,6 +37,8 @@ The analysis includes:
 - Sales distribution across different channels.
 - Contribution of states to sales.
 
+![Dashboard](https://github.com/routshruti/Ecommerce-Store-Annual-Sales-Report-using-Excel/blob/main/Annual%20Sales%20Report.png?raw=true)
+
 ## Insights
 - Women make more purchases than men.
 - 50% of the customers are adults, followed by teenagers and the elderly.
