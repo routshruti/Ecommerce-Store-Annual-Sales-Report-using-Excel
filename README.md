@@ -1,4 +1,4 @@
-# Annual Sales Report for E-Commerce Store (2024)
+# Annual Sales Report for E-Commerce Store (2023)
 
 ## Overview
 This project aims to create an annual sales report for the year 2023 for the E-commerce Store. The purpose of this report is to analyze sales data, understand customer preferences, and identify areas for improving sales performance in 2024.
@@ -12,10 +12,10 @@ This project aims to create an annual sales report for the year 2023 for the E-c
 - [Conclusion](#conclusion)
 
 ## Introduction
-The E-commerce Store recognizes the importance of understanding customer behavior and sales trends to drive business growth. Therefore, it has initiated the preparation of an annual sales report for the year 2022.
+The E-commerce Store recognizes the importance of understanding customer behavior and sales trends to drive business growth. Therefore, it has initiated the preparation of an annual sales report for the year 2023.
 
 ## Objective
-The main objective of this project is to analyze the sales data from 2022 to gain insights into customer preferences, popular products, and sales trends. These insights will inform strategic decisions aimed at enhancing sales performance in 2024.
+The main objective of this project is to analyze the sales data from 2023 to gain insights into customer preferences, popular products, and sales trends. These insights will inform strategic decisions aimed at enhancing sales performance in 2024.
 
 ## Methodology
 The annual sales report is created using Microsoft Excel. The methodology involves:
@@ -30,7 +30,7 @@ The annual sales report is created using Microsoft Excel. The methodology involv
 
 ## Data Analysis
 The analysis includes:
-- Total sales revenue, total orders, and total quantities sold for the year 2022.
+- Total sales revenue, total orders, and total quantities sold for the year 2023.
 - Monthly sales trends.
 - Best-selling product categories.
 - Customer demographics and preferences, including sales by gender and sales by age group.
